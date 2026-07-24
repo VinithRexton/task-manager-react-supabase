@@ -1,0 +1,38 @@
+.modal{
+
+    position:fixed;
+    
+    inset:0;
+    
+    background:rgba(0,0,0,.45);
+    
+    display:flex;
+    
+    justify-content:center;
+    
+    align-items:center;
+    
+    z-index:100;
+    
+    }
+    
+    .modal-content{
+    
+    width:450px;
+    
+    background:white;
+    
+    padding:30px;
+    
+    border-radius:20px;
+    
+    display:flex;
+    
+    flex-direction:column;
+    
+    gap:15px;
+    
+    }
+
+
+    
